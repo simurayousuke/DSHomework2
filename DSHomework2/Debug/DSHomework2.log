@@ -1,0 +1,13 @@
+﻿生成启动时间为 2016/9/27 19:19:17。
+     1>项目“F:\VS2015\DSHomework2\DSHomework2\DSHomework2.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         E:\vs\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt DSHomework2.cpp
+         DSHomework2.cpp
+       Link:
+         E:\vs\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\VS2015\DSHomework2\Debug\DSHomework2.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"F:\VS2015\DSHomework2\Debug\DSHomework2.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\VS2015\DSHomework2\Debug\DSHomework2.lib" /MACHINE:X86 Debug\DSHomework2.obj
+         DSHomework2.vcxproj -> F:\VS2015\DSHomework2\Debug\DSHomework2.exe
+     1>已完成生成项目“F:\VS2015\DSHomework2\DSHomework2\DSHomework2.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:01.40
